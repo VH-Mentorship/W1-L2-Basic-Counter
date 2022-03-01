@@ -1,4 +1,4 @@
-# Workshop #1 Take-Home 2: Creating a basic counter with Javascript
+# Workshop #1 Take-Home Level 2: Basic Counter with Javascript
 
 Your goal for this takehome assignment is to create a counter using basic Javascript. We have provided you with some starter code in the `index.html` and `src/index.js` files to help you get started.
 
