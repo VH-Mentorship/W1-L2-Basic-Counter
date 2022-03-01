@@ -6,7 +6,7 @@ Your goal for this takehome assignment is to create a counter using basic Javasc
 * Two buttons that increase and decrease the count when clicked
 * A count display that updates every time a button is clicked
 
-![alt text](https://github.com/CH-Mentorship/W1-L2-Basic-Counter/blob/main/counter.png?raw=true)
+![alt text](https://github.com/VH-Mentorship/W1-L2-Basic-Counter/blob/main/counter.png?raw=true)
 
 ## Challenges
 If you want to do more with this assignment, here are a few suggestions for modifications/additions you can make to your counter:
